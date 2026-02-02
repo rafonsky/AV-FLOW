@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/', // Altere para '/nome-do-repo/' se usar GitHub Pages
+  base: '/AV-FLOW/',
 })
